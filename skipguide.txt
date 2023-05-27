@@ -30,24 +30,28 @@
 "vungle_reward":"REWARD-7025613",
 
   
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
 "native_network_choice":"admob"
   
 
 },
   "my_data":[
-  {"desc1":"Mod APKs, or modified versions of Android applications, are unauthorized modifications that alter the original code of an app"},
-  {"desc2":" These modifications often enable users to access premium features, remove advertisements, or gain other advantages without paying for them"},
-  {"desc3":"While modding may be tempting for some users, it is important to understand the potential consequences and ethical implications associated with it."},
-  {"desc4":"Legal and Ethical Concerns: Modifying APKs is often a violation of the app developer's terms of service and can be considered illegal in many jurisdictions"},
-  {"desc5":" It is crucial to respect the intellectual property rights of app developers and follow the rules and regulations set by them."},
-  {"desc6":" It is crucial to respect the intellectual property rights of app developers and follow the rules and regulations set by them."},
-  {"desc7":"They may contain malware or viruses that can compromise your device's security and your personal data"},
-  {"descd":" When you download apps from trusted sources such as the Google Play Store or Apple App Store, you have a better assurance of their authenticity and security."}
+  {"desc1":"description1 ser ",
+   "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc2":"In the world of fashion and luxury, Barvikha Mod stands as an emblem of opulence, elegance, and timeless style. Nestled in the heart of Barvikha, an affluent suburb of Moscow, this high-end fashion boutique has captivated the attention of discerning clientele since its inception","photo2":"https://iili.io/HrAgMmu.jpg"},
+  {"desc3":"With its exquisite collection, impeccable service, and unparalleled attention to detail, Barvikha Mod has become synonymous with luxury fashion in Russia and beyond","photo3":"https://iili.io/HrAgE79.webp"},
+  {"desc4":"This article delves into the essence of Barvikha Mod, exploring its history, unique offerings, and its impact on the fashion industry.","photo4":"https://iili.io/HrAU0Na.jpg"},
+  {"desc5":"Barvikha Mod was established in 1995 by renowned Russian fashion designer, Valentina Nadezhdina","photo5":"https://iili.io/HrAglgS.webp"},
+  {"descd":"With her unparalleled vision and passion for luxury fashion, Nadezhdina sought to create a haven for fashion enthusiasts seeking exclusivity and refined style.","photod":"https://iili.io/HrAg1d7.webp"}
    ]
  
 }
